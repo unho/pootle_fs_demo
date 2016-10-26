@@ -1,32 +1,26 @@
-#. # This Source Code Form is subject to the terms of the Mozilla Public
-#. # License, v. 2.0. If a copy of the MPL was not distributed with this
-#. # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-#. extracted from ./browser/branding/official/brand.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-01 10:39+0100\n"
-"PO-Revision-Date: 2013-02-22 22:21+0000\n"
-"Last-Translator: F Wolff <friedel@translate.org.za>\n"
+"POT-Creation-Date: 2016-10-26 20:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
-"X-Accelerator-Marker: &\n"
-"X-Merge-On: location\n"
-"X-POOTLE-MTIME: 1361571681.000000\n"
+"X-Generator: Translate Toolkit 2.0.0b6\n"
+"X-Pootle-Path: /af/nuproj/branding/official/brand.properties.po\n"
+"X-Pootle-Revision: 6413\n"
 
 #: brandShortName
 msgid "Firefox"
-msgstr ""
+msgstr "ddassd"
 
 #: brandFullName
 msgid "Mozilla Firefox"
-msgstr ""
+msgstr "sdsadad"
 
 #: vendorShortName
 msgid "Mozilla"
@@ -51,61 +45,3 @@ msgstr "Kies asseblief die tuisblad wat u wil gebruik:"
 #: syncBrandShortName
 msgid "Sync"
 msgstr "Sync"
-
-#~ msgid "Thunderbird"
-#~ msgstr "Thunderbird"
-
-#~ msgid "Mozilla Thunderbird"
-#~ msgstr "Mozilla Thunderbird"
-
-#~ msgid "Sidebar"
-#~ msgstr ""
-#~ "#-#-#-#-#  brand.properties.po (brand.properties)  #-#-#-#-#\n"
-#~ "Kantbalk\n"
-#~ "#-#-#-#-#  brand.properties.po (brand.properties)  #-#-#-#-#\n"
-#~ "Sybalk\n"
-#~ "#-#-#-#-#  brand.properties.po (PACKAGE VERSION)  #-#-#-#-#\n"
-#~ "Kantbalk"
-
-#~ msgid "Mail/News"
-#~ msgstr "Pos/Nuus"
-
-#~ msgctxt "brandFullName"
-#~ msgid "Mail/News Client"
-#~ msgstr "Pos-/nuuskliënt"
-
-#~ msgctxt "vendorShortName"
-#~ msgid "Mail/News Client"
-#~ msgstr "Pos-/nuuskliënt"
-
-#~ msgctxt "brandShortName"
-#~ msgid "Minefield"
-#~ msgstr "Minefield"
-
-#~ msgctxt "brandFullName"
-#~ msgid "Minefield"
-#~ msgstr "Minefield"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "Firefox Start, a fast search page with search results by Google"
-#~ msgstr "Firefox Start, 'n vinnige soekbladsy met soekresultate deur Google"
-
-#~ msgctxt "brandShortName"
-#~ msgid "Bon Echo"
-#~ msgstr "Bon Echo"
-
-#~ msgctxt "brandFullName"
-#~ msgid "Bon Echo"
-#~ msgstr "Bon Echo"
-
-#~ msgid ""
-#~ "_: brandShortName\n"
-#~ "Deer Park"
-#~ msgstr "Deer Park"
-
-#~ msgid ""
-#~ "_: brandFullName\n"
-#~ "Deer Park"
-#~ msgstr "Deer Park"
